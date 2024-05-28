@@ -1,2 +1,3 @@
 Confirmado, queremos trabajar con texto.txt en nuestro proyecto.
 En la clase de hoy, aprendimos a trabajar con git.  
+Mando un mensaje desde el mas alla. 
